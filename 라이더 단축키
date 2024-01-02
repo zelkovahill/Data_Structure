@@ -1,0 +1,88 @@
+탭, 툴 윈도우 관련
+
+각종 툴 윈도우 : Cmd + 0~9
+탭 앞/뒤로 이동 : Ctrl + Tab / Ctrl + Shift + Tab
+탭 닫기 : Cmd + W
+코드 탭 -> 툴 윈도우 로 포커스 이동 : F12
+툴 윈도우 -> 코드 탭으로 포커스 이동 : Esc
+툴 윈도우를 숨기기 : Shift + Esc
+
+선택 블록, 커서 이동
+
+선택 확장 : Opt + 위
+선택 축소 : Opt + 아래
+커서를 코드 블록의 시작(혹은 끝)으로 이동 : Cmd + Opt + [ 혹은 ]
+라인 이동 : Cmd + L
+이전/다음 편집 부분 이동 : Cmd + Opt + 왼쪽 혹은 오른쪽
+최근 편집 부분 팝업 : Cmd + Shift + E
+
+정의 및 사용처
+
+정의, 사용처 이동 팝업 : Cmd + B
+정의 부분 간략 보기 : Opt + Space
+정의로 이동 : Cmd + Shift + B
+사용처 보기 : Opt + F7
+파일에서 사용처 하이라이트 : Cmd + Shift + F7
+
+주석
+
+라인형 주석 : Cmd + /
+블록형 주석 : Ctrl + Shift + /
+
+라인
+
+줄 복사 : Cmd + C
+즐 붙여넣기 : Cmd + V
+줄 잘라내기 : Cmd + X
+현재 줄 복사붙여넣기 : Cmd + D
+
+
+현재 줄 삭제 : Cmd + Delete
+현재 줄 이동 : Cmd + Shift + 위/아래
+선택한 줄들 한줄로 합치기 : Ctrl + Shift + J
+줄 안에서 시작 단어를 삭제 : Opt + Fn + Del
+줄 안에서 끝 단어를 삭제 : Opt + Del
+
+편집 편의기능
+
+(변수, 함수 등) 이름 바꾸기 : Shift + F6
+선택 영역을 ???로 감싸기 : Cmd + Opt + T
+선택 영역의 대소문자 변환 : Cmd + Shift + U
+코드 리포맷(Reformat) : Cmd + Opt + L
+using, import 구문 최적화 (안쓰는거 삭제 등) : Ctrl + Opt + O
+들여쓰기 정리 : Ctrl + Opt + I
+에러, 경고 찾기
+에러, 경고 표시된 부분으로 이동 : F2
+에러, 경고 내용과 설명을 표시 : Cmd + F1
+
+북마크
+
+기본 북마크 기록 / 해제 : F3
+표시된 북마크 기록 / 해제 : Opt + F3
+북마크 목록 팝업 : Cmd + F3
+
+코드 찾기
+
+찾기 : Cmd + F
+다음 찾기 / 이전 찾기 : Cmd + G / Cmd + Shift + G
+전체 파일에서 찾기 : Cmd + Shift + F
+바꾸기 : Cmd + R
+전체 파일에서 바꾸기 : Cmd + R
+
+컴파일 및 디버그
+
+빌드 : Cmd + F9
+Run : Ctrl + Opt + R
+디버그 시작 : Ctrl + Opt + D
+디버그 종료 : Cmd + F2
+중단점 설정 : Cmd + F8
+중단점 상세 설정 : (중단점에서) Cmd + Shift + F8
+중단점 목록 : Cmd + Shift + F8
+한줄씩 진행 : F8
+함수 안으로 파고들면서 진행 : F7
+커서 있는곳까지 디버그 진행 : Alt + F9
+디버그에서 프로그램 재개 : F9
+
+리팩토링
+
+선택 영역을 리팩토링 : Ctrl + T
